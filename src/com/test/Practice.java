@@ -7,7 +7,6 @@ public class Practice {
 		
 		System.out.println("Hello Fouzia!");
 		System.out.println("Welcome to GitHub");
-		System.out.println("This is Premsagar here");
 
 	}
 }
