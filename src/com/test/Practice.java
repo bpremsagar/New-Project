@@ -12,6 +12,7 @@ public class Practice {
 		int b=11;
 		int c=a+b;
 		System.out.println("Sum of a And b is c : ", c);
+		Sysem.out.println("New line added")
 
 	}
 }
